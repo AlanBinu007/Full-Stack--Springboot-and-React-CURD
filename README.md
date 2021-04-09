@@ -1,6 +1,6 @@
 # Spring Boot React CRUD
 ## Download
-```git clone https://github.com/maheshkareeya/spring-boot-react-crud.git```
+```git clone https://github.com/AlanBinu007/Full-Stack--Springboot-and-React-CURD.git```
 ```cd spring-boot-react-crud```
 ## Open Terminal
 ```cd frontend```
@@ -22,7 +22,4 @@ http://localhost:8080/swagger-ui.html
 ## Click bellow for frontend
 http://localhost:3000
 
-## Demo 
-![Screenshot 2020-01-22 at 8 26 54 PM](https://user-images.githubusercontent.com/16520789/73008307-509e6200-3e34-11ea-9c39-4517a4f96946.png)
-# Full-Stack--Springboot-and-React-CURD
-# Full-Stack--Springboot-and-React-CURD
+
